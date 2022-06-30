@@ -36,7 +36,7 @@ module.exports = function(config) {
             captureConsole: true
         },
         autoWatch: true,
-        browsers: ['chrome'],
+        browsers: ['chrome', 'Firefox'],
         customLaunchers: {
             chrome: {
                 base: 'Chrome',
