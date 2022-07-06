@@ -33,18 +33,8 @@ var domtoimage = require("dom-to-image-more");
 
 ### Bower
 
-`bower install dom-to-image-more`
+~Removed~
 
-Include either `src/dom-to-image-more.js` or `dist/dom-to-image-more.min.js` in your page
-and it will make the `domtoimage` variable available in the global scope.
-
-```html
-<script src="path/to/dom-to-image-more.min.js" />
-<script>
-  domtoimage.toPng(node);
-  //...
-</script>
-```
 
 ## Usage
 
@@ -277,7 +267,8 @@ for you, following steps are taken:
 
 Marc Brooks, Anatolii Saienko (original dom-to-image), Paul Bakaus (original idea),
 Aidas Klimas (fixes), Edgardo Di Gesto (fixes), 樊冬 Fan Dong (fixes), Shrijan Tripathi (docs),
-SNDST00M (optimize), Joseph White (performance CSS)
+SNDST00M (optimize), Joseph White (performance CSS), Phani Rithvij (test), 
+David DOLCIMASCOLO (packaging)
 
 ## License
 
