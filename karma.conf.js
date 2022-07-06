@@ -20,7 +20,7 @@ module.exports = function(config) {
 
             'test-lib/jquery/dist/jquery.js',
             'test-lib/js-imagediff/imagediff.js',
-            'test-lib/tesseract-1.0.10.js',
+            'test-lib/tesseract-1.0.19.js',
 
             'src/dom-to-image-more.js',
             'spec/dom-to-image-more.spec.js'
